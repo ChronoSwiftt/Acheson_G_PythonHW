@@ -1,7 +1,7 @@
-![Rock,Paper and Scissors](images/rock_paper_scissors.png "Rock, Paper and Scissors")
+![Rock,Paper and Scissors](<images/rock_paper_scissors.png> "Rock, Paper and Scissors")
 # Rock Paper Scissors in Python
 
-### Prerequisites: All you need is[Python 3](https://www.python.org/downloads/)to play
+### Prerequisites: All you need is [Python 3](https://www.python.org/downloads/) to play
 
 ### Clone the project, navigate to the correct directory -`cd directory name`- and run the -`game.py`- file in a Python 3 Terminal window for macOS/Linux.
 
