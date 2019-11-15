@@ -1,11 +1,11 @@
 ![Rock,Paper and Scissors](images/rock_paper_scissors.png "Rock, Paper and Scissors")
 # Rock Paper Scissors in Python
 
-## Prerequisites: All you need is[Python 3](https://www.python.org/downloads/)to play
+### Prerequisites: All you need is[Python 3](https://www.python.org/downloads/)to play
 
-## Clone the project, navigate to the correct directory -`cd directory name`- and run the game.py file in a Python 3 Terminal window for macOS/Linux.
+### Clone the project, navigate to the correct directory -`cd directory name`- and run the -`game.py`- file in a Python 3 Terminal window for macOS/Linux.
 
-## The rules are the same as the classic game:
+### The rules are the same as the classic game:
 
 1. Paper covers Rock
 2. Scissors cuts Paper
@@ -13,8 +13,8 @@
 
 *Choose your weapon wisely!*
 
-## The computer chooses first; just follow the prompts
+### The computer chooses first; just follow the prompts
 
-##Author: Gerrit Acheson - Main Dev
+### Author: Gerrit Acheson - Main Dev
 
-## Built with Python 3.
+### Built with Python 3.
