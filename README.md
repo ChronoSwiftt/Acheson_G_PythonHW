@@ -15,6 +15,4 @@ The rules are the same as the classic game:
 
 The computer chooses first; just follow the prompts
 
-Author: Gerrit Acheson - Main Dev
-
 Built with Python 3.
